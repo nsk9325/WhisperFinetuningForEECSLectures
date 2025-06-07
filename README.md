@@ -8,6 +8,9 @@ https://huggingface.co/datasets/yongjune2002/MITOCW-whisper
 Dataset(After FeatureExtraction_MelLogSpectrum)\
 https://huggingface.co/datasets/yongjune2002/MITOCW-Whisper-Processed
 
+Fine-tuned model\
+https://huggingface.co/tfbghjk/whisper-mit-small_v2/tree/main
+
 | Team member | Main responsibilities |
 |-------------|-----------------------|
 | 윤재원        | Overall project coordination • training pipeline orchestration • Gradio demo integration |
